@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm kurokawa</h1>
 <h3 align="center">I'm a student at Kyushu University studying computer architecture.</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ku6kaw&theme=onedark)](https://github.com/ku6kaw/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
