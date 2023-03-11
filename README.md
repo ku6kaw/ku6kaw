@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm kurokawa</h1>
+![](https://komarev.com/ghpvc/?username=ku6kaw&color=green)
 <h3 align="center">I'm a student at Kyushu University studying computer architecture.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ku6kaw&theme=onedark)](https://github.com/ku6kaw/github-profile-trophy)
