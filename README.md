@@ -8,8 +8,6 @@
 </p>
 
 
-
-
 ## :hammer_and_wrench: My Skills & Tools
 
 ### Languages
@@ -38,14 +36,15 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ku6kaw&show_icons=true&theme=radical&count_private=true" 
     alt="GitHub Stats"
-    />
-  
+  />
+</p>
+
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ku6kaw&layout=compact&theme=radical&count_private=true" 
     alt="Top Languages"
-    />
+  />
 </p>
-
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ku6kaw&theme=radical" 
